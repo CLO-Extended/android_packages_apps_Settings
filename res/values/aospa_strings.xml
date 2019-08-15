@@ -167,4 +167,8 @@
     <!-- Display settings screen, increased touch polling rate settings summary -->
     <string name="touch_polling_summary">Increase touchscreen polling rate to decrease latency</string>
 
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+
 </resources>
